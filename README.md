@@ -1,7 +1,8 @@
 # Linux-practice-v1
 
-## Practice Linux command 
+## 🐧 A to Z Linux Commands Cheat Sheet
 ---
+
 | Letter | Command   | Description                                      |
 |--------|-----------|--------------------------------------------------|
 | A      | `alias`   | Create shortcuts for commands                    |
@@ -30,5 +31,6 @@
 | X      | `xargs`   | Build and execute command lines from input       |
 | Y      | `yum`     | Package manager for RPM-based systems            |
 | Z      | `zip`     | Compress files into a zip archive                |
+
 
 ---
